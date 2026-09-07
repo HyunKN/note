@@ -1,0 +1,4 @@
+1. "Side Accent Bar" 
+2. "Side-Tab Card" 디자인
+3. 이모지 사용
+4. 알약형 배지(pill badge)
