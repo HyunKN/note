@@ -1,0 +1,8 @@
+interface:
+  display_name: "Anti-Slop Presentation System"
+  short_description: "Create a presentation from this saved template"
+  icon_small: "./assets/preview.png"
+  icon_large: "./assets/preview.png"
+  default_prompt: "Create a presentation using the Anti-Slop Presentation System template."
+policy:
+  allow_implicit_invocation: true
